@@ -3,6 +3,7 @@
 # Decompose a pdf file into eps files, the number of output
 # files is number of pages from pdf file, the outputs are put
 # in a directory name according to the pdf file name
+# pdf2epslist <nameofpdffile>
 
 FILE=$1
 
